@@ -3,7 +3,7 @@
 
 Reimagine a corporate message using critical design
 
-<img src="assets/img/ch3-unbrand-ikea-time-anim.gif" width="300"> <img src="assets/img/ch3-unbrand-adobe.gif" width="300"> 
+<img src="assets/img/ch3-unbrand-ikea-time-anim.gif" width="320"> <img src="assets/img/ch3-unbrand-adobe.gif" width="320"> 
 
 
 
@@ -63,7 +63,7 @@ Follow the prompt in Chapter 3 of Critical Web Design to:
 
 1. Code your design in HTML/CSS/JS
 1. Use @font-face or an online font service to match the identity
-1. Use Javascript and/or CSS `:hover` to add interactivity to the page
+1. Use Javascript `mouseover` and/or CSS `:hover` to add interactivity to the page
 1. Write a short statement explaining your motivation and intentions and log it to the console using `console.log()`
 
 
