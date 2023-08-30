@@ -3,7 +3,7 @@
 
 Reimagine a corporate message using critical design
 
-<img src="assets/img/ch3-unbrand-ikea-time-anim.gif" width="250"> <img src="assets/img/ch3-unbrand-adobe.gif" width="250"> 
+<img src="assets/img/ch3-unbrand-ikea-time-anim.gif" width="300"> <img src="assets/img/ch3-unbrand-adobe.gif" width="300"> 
 
 
 
