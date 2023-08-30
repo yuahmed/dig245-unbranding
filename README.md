@@ -55,7 +55,7 @@ Fork this repository and clone it to the `critical-web-design` folder on your ma
 
 ### Design
 
-Follow the prompt in Chapter 3 of Critical Web Design to create a design that unbrands a corporate identity based. 
+Follow the prompt in Chapter 3 of Critical Web Design to create a design that unbrands a corporate identity. 
 
 
 ### Code
