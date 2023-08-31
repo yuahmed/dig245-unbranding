@@ -3,9 +3,9 @@
 
 Reimagine a corporate message using critical design
 
-<img src="assets/img/ch3-unbrand-ikea-time-anim.gif" width="320"> <img src="assets/img/ch3-unbrand-adobe.gif" width="320"> 
+<img src="assets/img/corporate-flag-2023.png"> 
 
-<small>Examples by xtine burrough and Owen Mundy</small>   
+<small>Adbusters' Corporate American Flag (2023)</small>   
 
 
 ## Introduction
