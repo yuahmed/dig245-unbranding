@@ -1,16 +1,17 @@
 
 # `</brand>`
 
-Reimagine a corporate message using critical design
-
 <img src="assets/img/corporate-flag-2023.png"> 
 
 <small>Adbusters' Corporate American Flag (2023)</small>   
 
 
+
+
+
 ## Introduction
 
-Use Figma to add commentary through a redesign of some aspect of a corporate brand identity
+Reimagine a corporate message using critical web design.
 
 
 <details>
@@ -20,8 +21,9 @@ Students who complete this assignment will be able to:
 
 - Compare [Dunne and Raby's A/B columns](assets/img/dunn-raby-a-b.png) e.g. critical design vs. commercial design
 - Identify aspects of an organization's brand and identity including logo, wordmark, and logo lockup.
+- Design a web page in Figma
 - Demonstrate how to use @font-face and online type services like Google Fonts to style text in a web page.
-- Show how to add a click event listener in Javascript.
+- Implement a click event listener in Javascript.
 
 </details>
 
@@ -45,20 +47,17 @@ See Moodle.
 
 
 
-## Assigment
+## Setup
+
+[Fork](https://docs.github.com/en/get-started/quickstart/fork-a-repo#forking-a-repository) this repository and [clone](https://docs.github.com/en/get-started/quickstart/fork-a-repo#cloning-your-forked-repository) it to your machine.
 
 
-### Setup
-
-Fork this repository and clone it to the `critical-web-design` folder on your machine. See class assignments for details.
-
-
-### Design
+## Design
 
 Follow the prompt in Chapter 3 of Critical Web Design to create a design that unbrands a corporate identity. 
 
 
-### Code
+## Code
 
 Follow the prompt in Chapter 3 of Critical Web Design to:
 
@@ -68,11 +67,12 @@ Follow the prompt in Chapter 3 of Critical Web Design to:
 1. Write a short statement explaining your motivation and intentions and log it to the console using `console.log()`
 
 
-### Publish
+## Publish
 
 1. [Save and refresh](https://github.com/omundy/learn-computing/blob/main/topics/keyboard-shortcuts.md#web-development-edit-save-refresh-loop) your work in the browser often to see your changes.
 1. Commit changes regularly.
-1. When finished, push, publish, and post your project. Include a link to your Figma designs in the Moodle post. See Assignments for details.
+1. Confirm valid [HTML](https://validator.w3.org/) and [CSS](https://jigsaw.w3.org/css-validator/) <sup>([?](https://github.com/omundy/dig245-critical-web-design/blob/main/topics/html-css/css.md#css-validation))</sup>
+1. When finished, push, publish, and post all deliverables to Moodle per documentation in the Assignments.
 
 
 ## Resources
