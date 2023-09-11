@@ -1,5 +1,5 @@
 
-# `</brand>`
+# `</branding>`
 
 <img src="assets/img/corporate-flag-2023.png"> 
 
