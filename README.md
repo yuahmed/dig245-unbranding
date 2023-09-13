@@ -52,6 +52,20 @@ See Moodle.
 [Fork](https://docs.github.com/en/get-started/quickstart/fork-a-repo#forking-a-repository) this repository and [clone](https://docs.github.com/en/get-started/quickstart/fork-a-repo#cloning-your-forked-repository) it to your machine.
 
 
+## Inspiration
+
+- Critical Web Design Chapter 3 examples: [Monopoly](https://omundy.github.io/critical-web-design-book/03-critical-design/examples/adobe-monopoly) and [Time](https://omundy.github.io/critical-web-design-book/03-critical-design/examples/ikea-time/)
+- [First Things First Manifesto 1960](http://www.designishistory.com/1960/first-things-first/) and [2020](https://www.eyemagazine.com/feature/article/first-things-first-manifesto-2000)
+- Adbusters collection of [spoof ads](https://www.adbusters.org/spoof-ads)
+- [stupidhackathon.com](https://stupidhackathon.com) (2015) organized by Sam Lavigne & Amelia Winger-Bearskin
+- [Safebook](https://bengrosser.com/projects/safebook/) (2018) by Ben Grosser
+- [unfitbits.com](unfitbits.com) (2015) by Tega Brain and Surya Mattu
+- [adnauseam.io](https://adnauseam.io/)
+- [add-art](https://add-art.org/) (2011) by Steve Lambert, et al
+- [termsandconditions.game](https://www.termsandconditions.game) 
+
+
+
 ## Design
 
 Follow the prompt in Chapter 3 of Critical Web Design to create a design that unbrands a corporate identity. 
