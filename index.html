@@ -1,14 +1,33 @@
-<!doctype html>
+<!DOCTYPE html>
 <html lang="en">
-<head>
+  <head>
     <!-- meta tags, links to css, etc. -->
-    <meta charset="utf-8">
+    <meta charset="utf-8" />
     <title>DIG 245 Unbrand</title>
-</head>
-<body>
+    <link rel="stylesheet" href="assets/css/styles.css" />
+    <link
+      href="https://fonts.cdnfonts.com/css/klein-condensed-trial"
+      rel="stylesheet"
+    />
+    <!-- @import url('https://fonts.cdnfonts.com/css/klein-condensed-trial'); -->
+  </head>
+  <body class="bg">
+    <!-- jquery js library FOR TRANSITION EFFECTS -->
 
-    <!-- visible content goes here -->
-    <h1>DIG 245 Unbrand</h1>
+    <div id="mouseTrack" class="mouseTrack">Cursor Position: X = , Y=</div>
+    <!-- BEFORE transition-->
 
-</body>
+    <div class="swoosh" id="swoosh"></div>
+
+    <div class="tagline"></div>
+
+    <!-- AFTER  transition-->
+    <div class="after">
+      <div class="white"></div>
+
+      <div class="subverttext"><h1>JUST DO IT.</h1></JUST></div>
+    </div>
+    <!-- load javascript after the page elements render -->
+    <script src="assets/js/main.js"></script>
+  </body>
 </html>
