@@ -1,17 +1,4 @@
-
 /* css */
-
-/* .bg{
-    background-color: khaki;
-} */
-
-/*
-.bg:hover{
-
-    background-color: red;
-    background-image: url("https://i.natgeofe.com/n/87d0e2f0-4583-4f6c-8a31-1766d41725a8/plastic-waste-single-use-worldwide-consumption-art-4a.jpg"); 
-}
-*/
 
 .swoosh{
     background-image: url("../img/blackswooshx.png");
@@ -21,41 +8,48 @@
     margin: 0px auto;
 }
 
-.swoosh:hover {
-    background-image: url("../img/whiteswooshx.png");
-    background-color: black;
-    width: 575px;
-    height: 500px;
-    transform: scale(0.75,0.75);
-    margin: 0px auto;
-} 
-
-/* 
-.tagline{
-    background-image: url("../img/justdoit.png");
-    width: 600px;
-    height: 600px;
-    transform:scale(0.75,0.75);
-    margin: auto;
-} */
-
-/* .white{
-    sposition: absolute;
-    top: 50%;
-    left: 50%;
-    transform:translate(-50%, -75%) rotate(-2.1deg); 
-} */
-
 .subverttext{
     position: absolute;
     top: 44%;
     left: 34%;
-    color: black;
+    /* color: black; */
     font-family:'Klein Condensed Trial', sans-serif;
     font-size: 55px; 
     font-style:normal; 
     font-variant:normal;
     font-weight:bolder; 
-
     transform: scale(0.90,1.2);
 } 
+
+#bar{
+    display: none;
+    width: 1540px;
+    height: 25px;
+    background-color:white;
+    position: absolute;
+    top: 88%;
+    left:0%;
+}
+
+.linkfont{
+    font-family:'Times New Roman', Times, serif;
+    font-size: 18px;
+}
+
+.lawsuit{
+    position: absolute;
+    top:0%;
+    left:37%;
+}
+
+.article{
+    position: absolute;
+    top:0%;
+    left:4%;
+}
+
+.fumes{
+    position: absolute;
+    top:0%;
+    left:75%;
+}

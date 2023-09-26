@@ -9,24 +9,41 @@
       href="https://fonts.cdnfonts.com/css/klein-condensed-trial"
       rel="stylesheet"
     />
-    <!-- @import url('https://fonts.cdnfonts.com/css/klein-condensed-trial'); -->
-  </head>
-  <body id="bg">
-    <!-- jquery js library FOR TRANSITION EFFECTS -->
 
-    <div id="mouseTrack" class="mouseTrack">Cursor Position: X = , Y=</div>
-    <!-- BEFORE transition-->
+  </head>
+  <body id="bg" onload="infoMessage('Click the NIKE tagline!')">
 
     <div class="swoosh" id="swoosh"></div>
 
     <div class="tagline"></div>
 
-    <!-- AFTER  transition-->
-    <div class="after">
-      <div class="white"></div>
+    <div class="white"></div>
 
-      <div class="subverttext"><h1>JUST DO IT.</h1></JUST></div>
+    <div class="subverttext"><h1>JUST DO IT.</h1></div>
+
+    <div id="bar">
+      <div class="lawsuit linkfont"> 
+        <a href=" https://topclassactions.com/lawsuit-settlements/consumer-products/apparel/nike-class-action-claims-company-greenwashes-by-falsely-advertising-sustainability/"
+        target="_blank"> 
+          Ellis v. NIKE USA, Inc. Class Action Lawsuit 2023.
+        </a>
+      </div>
+
+      <div class="article linkfont">
+        <a href="https://www.businessinsider.com/nike-behind-on-environmental-goals-popularity-leather-jordans-dunks-airforce-2022-7#:~:text=Leather%20has%20one%20of%20the,change%20from%202015%20to%202020."
+        target="_blank">
+          NIKE Behind on Environmental goals.
+        </a>
+      </div>
+
+      <div class="fumes linkfont">
+        <a href="https://unearthed.greenpeace.org/2022/08/08/garment-waste-nike-clarks-cambodia-bonded-workers-toxic/"
+        target="_blank">
+          Garment Waste Used to Fuel Toxin Kilns.
+        </a>
+      </div>
     </div>
+
     <!-- load javascript after the page elements render -->
     <script src="assets/js/main.js"></script>
   </body>
