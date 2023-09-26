@@ -9,9 +9,9 @@ var bar = document.getElementById("bar");
 //console.log(subText);
 
 //message to tell user what to do to see transition
-function infoMessage(message){
-    alert(message);
-}
+// function infoMessage(message){
+//     alert(message);
+// }
 
 subText.addEventListener("click",onClickHandler);
 

@@ -5,12 +5,14 @@
     width: 600px;
     height: 500px;
     transform: scale(0.75,0.75);
-    margin: 0px auto;
+    position: absolute;
+    top: 0%;
+    left: 31%;
 }
 
 .subverttext{
     position: absolute;
-    top: 48%;
+    top: 44%;
     left: 34%;
     /* color: black; */
     font-family:'Klein Condensed Trial', sans-serif;
